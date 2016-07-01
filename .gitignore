@@ -9,7 +9,7 @@ env/
 build/
 develop-eggs/
 dist/
-# downloads/
+downloads/
 eggs/
 lib/
 lib64/
@@ -68,4 +68,4 @@ ENV/
 
 oauth.ini
 oauth.py
-# convert/
+convert/
